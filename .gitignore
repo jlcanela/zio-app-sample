@@ -1,0 +1,10 @@
+.bloop/
+.bsp/
+.history/
+.idea/
+.metals/
+.vscode/
+node_modules/
+target/
+dist/
+project/project
